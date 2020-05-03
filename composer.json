@@ -1,0 +1,21 @@
+{
+    "name": "anker456/wealth",
+    "description": "common tool kit",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "anker",
+            "email": "2048528830@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Anker456\\": "src/" 
+        }
+    }
+}
